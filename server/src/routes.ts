@@ -10,6 +10,8 @@ import ItemsController from './controllers/ItemsController';
 // Pega controle de rotas
 const routes = express.Router();
 
+//teste commit
+
 const upload = multer(multerConfig);
 
 // Controllers
